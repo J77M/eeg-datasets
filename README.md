@@ -5,8 +5,8 @@ recording frequency = 200 Hz</br>
 </br>
 data header: time, packet id, channel0, channel1, channel2, channel3, aux_data, aux_data, aux_data</br>
 
-| Tables        | Are           | Cool  | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:|
+| time | packet id | channel0  | channel1   | channel2  | channel3  | channel1  | channel2  | channel3  |
+| ------------- |:-------------:| :-----:| :-------------: |:-------------:| :-----:|:-------------: |:-------------:| -----:|
 
 
 
