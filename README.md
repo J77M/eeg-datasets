@@ -2,8 +2,4 @@
 contains raw eeg data recorded with OpenBCI Ganglion</br>
 recording frequency = 200 Hz</br>
 </br>
-data in csv:</br>
-| Syntax | Description |</br>
-| ----------- | ----------- |</br>
-| Header | Title |</br>
-| Paragraph | Text | </br>
+data header: time, packet id, channel0, channel1, channel2, channel3, aux_data, aux_data, aux_data</br>
